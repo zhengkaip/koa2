@@ -12,6 +12,6 @@ module.exports = {
     'rules': {
         'semi': ['error', 'never'],
         'quotes': ['error', 'single'],
-        'indent': ['error', 4]
+        'indent': ['error', 2]
     }
 }
